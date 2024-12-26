@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #faf7f7;
+        background-image: url('فضل_مساعدة_الفقراء_والمساكين.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      
+   }
+   
+   header {
+    background-color: #b19ae9;
+    color: #f5f4f4;
+    padding: 20px;
+    text-align: center;
+   }
+   
+   section {
+    padding: 20px;
+   }
+   
+   h1, h2 {
+    color: #eff1ef;
+   }
+   
+   ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+   }
+   
+   li {
+    padding: 10px;
+    border-bottom: 1px solid #ffffff;
+   }
+   
+   form {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(247, 244, 244, 0.1);
+   }
+   
+   input[type="text"], input[type="email"], input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+   }
+   
+   button {
+    background-color: #f32d2d;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+   
+   button:hover {
+    background-color: #ee1811;
+   }
